@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @mjshelton12
 - 👀 I’m interested in backend or fullstack programming
 - 🌱 I’m currently learning ReactJS
-- 📫 How to reach me call me, beep me, if you want to reach me
