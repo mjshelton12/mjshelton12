@@ -7,20 +7,10 @@ Please reach out if you're looking for a loyal, eager, and hard-working new deve
 ## About Me
 I'm a fullstack coder most interested in backend development.
 
-## Languages:
+## Technical Skills:
 
-* JavaScript
-* HTML
-* CSS
+Languages: JavaScript, HTML5, CSS
 
-## Backend
-* Node.js
-* MySQL
-* Express
-* MongoDB
+Backend: Node.js, MySQL, Express, MongoDB
 
-## Frontend
-* ReactJS
-* Handlebars.js
-* JQuery
-* Bootstrap
+Frontend: ReactJS, Handlebars.js, JQuery, Bootstrap
