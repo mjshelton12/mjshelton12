@@ -11,10 +11,12 @@ My career started as a Project Manager (PMP) in television where I have 10 years
 
 ## Technical Skills:
 
-Languages: [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [HTML][(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5, CSS, Python
+Languages: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-Backend: MySQL, Sequilze, MongoDB, Mongoose, Express.js, Node.js, GraphQL
+Backend: ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Sequilze](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) Mongoose
 
-Frontend: Responsive Design, React.js, JQuery, Bootstrap, TailwindCSS, Handlebars
+Frontend: ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) Handlebars
 
-Other: CI: Continuous Integration, Git, Github, RESTful APIs, Visual Studio Code, Agile Methodology, MERN Stack, Heroku, OOP (Object-Oriented Programming), Cookies, Local Storage, Session Storage, Postman, Microsoft Office (Word, Excel, Powerpoint), Zoom, Canva, StackBlitz, Replit, Whimsical, Docker, Jekyll
+Other: ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+Continuous Integration (CI), Responsive Design, MERN Stack, RESTful APIs, Visual Studio Code (VS Code), Agile Methodology, OOP (Object-Oriented Programming), Cookies, Local Storage, Session Storage, Postman, Microsoft Office (Word, Excel, Powerpoint), Zoom, Canva, StackBlitz, Replit, Whimsical, Figma, Jekyll
