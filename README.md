@@ -11,7 +11,7 @@ My career started as a Project Manager (PMP) in television where I have 10 years
 
 ## Technical Skills:
 
-Languages: [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5, CSS, Python
+Languages: [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [HTML][(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5, CSS, Python
 
 Backend: MySQL, Sequilze, MongoDB, Mongoose, Express.js, Node.js, GraphQL
 
