@@ -9,7 +9,7 @@ Please reach out if you're looking for a dedicated, eager, and hard-working deve
 ## About Me
 My career started as a Project Manager (PMP) in television where I have 10 years of experience leading teams on multi-million dollar projects with such household names as Netflix, Apple, and Disney. Through my time, I frequently found myself in charge of IT management and eventually realized I enjoyed the technical work I was doing more than the production work. So I decided to turn my passion into a fulltime career. Today, I use the communication, grit, and big-picture thinking skills I developed through my career along with my technical skills to produce high quality, efficent, and effective code.
 
-## Technical Skills:
+## Technical Skills
 
 Languages: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
