@@ -4,7 +4,7 @@ My name is Michelle Shelton, but you can call me MJ. I'm a passionate and dedica
 To learn more, check out my portfolio [here!](https://mjshelton12.github.io/mj-shelton-dev-portfolio/)
 
 ## About Me
-My career started as a Project Manager (PMP) in television where I have 10 years of experience leading teams on multi-million dollar projects with such household names as Netflix, Apple, and Disney. Through my time, I frequently found myself in charge of IT management and eventually realized I enjoyed the technical work I was doing more than the production work. So I decided to turn my passion into a fulltime career. Today, I use the communication, grit, and big-picture thinking skills I developed through my career along with my technical skills to produce high quality, efficent, and effective code.
+My career started as a Project Manager (PMP) in television where I have 10 years of experience leading teams on multi-million dollar projects with such household names as Netflix, Apple, and Disney. Through my time, I frequently found myself in charge of IT management and eventually realized I enjoyed the technical work I was doing more than the production work. So I decided to turn my passion into a fulltime career. Today, I use the communication, grit, and big-picture thinking skills I developed through my career along with my technical skills to produce high quality, efficent, and effective code. Currently, I work as a Teacher's Assitant at Northwestern's Full Stack Web Development Boot Camp.
 
 ## Technical Skills
 
